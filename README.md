@@ -1,3 +1,3 @@
 # blog-assets
 
-图床
+test
